@@ -1,0 +1,33 @@
+.title-center {
+    text-align: center;
+  }
+  
+  .byline {
+    font-size: 1em; 
+    text-align: center;
+    margin-top: 5px;
+    color: var(--ion-color-medium); 
+  }
+  
+  .content-background {
+    background-color: #dd8929 !important; 
+    height: 100% !important; 
+    width: 100% !important; 
+  }
+  
+  .dropdown-item {
+    --padding-start: 0; 
+  }
+  
+  .dropdown-right {
+    margin-left: auto; 
+    text-align: right;
+    flex: 1; 
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    text-align: center;
+  }
+  
